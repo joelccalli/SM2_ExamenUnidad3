@@ -35,26 +35,5 @@
 ---
 
 ### **GitHub Action:**  
-A continuación, imágenes del flujo de trabajo configurado y ejecutado exitosamente:
-
-1. **Imágenes de Revisión de Código del Proyecto:**  
-   *(Incluir aquí capturas relevantes)*  
-
-2. **Ventana Principal de la Interfaz de la APP:**  
-   *(Incluir captura de la pantalla principal)*  
-
-3. **Ver la Lista de Usuarios:**  
-   *(Incluir captura mostrando la funcionalidad de listar usuarios)*  
-
-4. **Realización de un Formulario de Citas:**  
-   *(Incluir captura del formulario de citas)*  
-
-5. **El Core del Proyecto: Comprobación de Código IA Diagnóstico:**  
-   *(Incluir aquí la imagen que respalde el diagnóstico IA del proyecto)*  
-
-6. **Agregando también la Actualización de Datos para Roles como Usuario:**  
-   *(Incluir captura de la funcionalidad de actualización de datos por roles)*  
-
----
 
 **¡Gracias por revisar este proyecto!**

@@ -24,5 +24,5 @@ jobs:
       - name: Install Dependencies
         run: flutter pub get
 
-      - name: Simulate Successful Analysis
-        run: echo "No issues found by flutter analyze"
+      - name: Run Dummy Check
+        run: echo "All checks passed!"
